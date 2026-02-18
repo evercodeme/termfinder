@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b2b0d797-cf28-4087-afa3-eaa971f8f528)
+
 # TermFinder
 
 A modern terminal + file explorer for macOS, Windows, and Linux, built with Electron.
